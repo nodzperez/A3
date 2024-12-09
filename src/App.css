@@ -1,0 +1,9 @@
+body {
+    background: #121212;
+    color: #fff;
+}
+
+.movie-poster>.row {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+}
